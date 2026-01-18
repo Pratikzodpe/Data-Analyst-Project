@@ -6,6 +6,7 @@ This project is focused on analyzing employee attrition data using multiple tool
 
 To understand the reasons behind employee attrition and provide data-driven insights to help organizations make informed HR decisions.
 
+
 🛠️ Tools & Technologies Used
 
 Excel: For data cleaning, missing value handling, and feature creation (like Attrition Numeric and Income Range).
@@ -15,6 +16,7 @@ SQL: For writing queries to calculate average attrition, department-wise working
 Power BI: To create interactive dashboards with charts, slicers, and filters.
 
 Tableau: For building user-friendly dashboards with interactive filters and visual insights.
+
 
 📊 Key Insights & Tasks Performed
 
@@ -29,6 +31,7 @@ Visualized top 10 and bottom 10 income ranges against attrition rates.
 Compared attrition based on years since last promotion.
 
 Built dynamic dashboards in both Power BI and Tableau.
+
 
 🚀 What I Learned
 
